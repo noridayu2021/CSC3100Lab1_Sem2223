@@ -1,10 +1,11 @@
 package Lab1;
 
-public class Name
-{
-	public static void main (String[] args)
-	{
-		System.out.println("Muhammad Alif Syahmi Bin Normahadi");
+public class Name {
+	//Main method
+	public static void main (String[]args) {
+		//Print out your name
+		System.out.print("Alhani Mawaddah Balqis Binti Majdi");
 		
 	}
+
 }
