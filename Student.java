@@ -1,11 +1,10 @@
-package Lab1;
 
-public class Student 
-{
-	public static void main (String[] args)
-	{
-		System.out.println("MUHAMMAD ALIF SYAHMI BIN NORMAHADI");
-		System.out.println("215723");
-		System.out.println("KOLEJ 12, UNIVERSITI PUTRA MALAYSIA");
+public class Student {
+	public static void main (String[]args) {
+		System.out.println ("Nur Aishah binti Abd Hadi");
+		System.out.println ("214390");
+		System.out.println ("Kolej 12, Universiti Putra Malaysia");
+		
 	}
+
 }
