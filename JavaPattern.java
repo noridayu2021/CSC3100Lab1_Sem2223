@@ -1,12 +1,10 @@
-package Lab1;
+package LAB1;
 
-public class JavaPattern 
-{
-	public static void main (String[] args)
-	{
-		System.out.println("  J    A    V     V    A    ");
-		System.out.println("  J   A A    V   V    A A   ");
-		System.out.println("  J  A A A    V V    A A A  ");
-		System.out.println("JJJ A     A    V    A     A ");
+public class JavaPattern {
+	public static void main(String[] args) {
+		System.out.println("    J");
+		System.out.println("J  aaa   v     vaa");
+		System.out.println("J  J  aa   v v   a a");
+		System.out.println("J   aaaa    v    aaaa");
 	}
 }

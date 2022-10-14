@@ -1,9 +1,7 @@
-package Lab1;
+package LAB1;
 
-public class LoveJava 
-{
-	public static void main (String[] args)
-	{
+public class LoveJava {
+	public static void main(String[] args) {
 		System.out.println("I love Java");
 		System.out.println("I love Java");
 		System.out.println("I love Java");
