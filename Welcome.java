@@ -1,12 +1,11 @@
-package Lab1;
+//Question 3
 
-public class Welcome 
-{
+package lab1;
+
+public class Welcome {
 	public static void main (String[] args)
 	{
-		System.out.println("Welcome");
-		System.out.println();
-		System.out.println("Java");
-		System.out.println("Programming!");
+		System.out.println("Welcome\n\nJava\nProgramming!");
+		
 	}
 }
